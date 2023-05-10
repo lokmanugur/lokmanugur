@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lokman Ugur
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning fullstack java development
+- 🌱 I’m fullstack java development
 - 💞️ I’m looking to collaborate on teams who make life easer and better
 - 📫 You may reach me from Lokman.ugur@hotmail.com mail address
 
