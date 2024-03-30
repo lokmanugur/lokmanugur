@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Lokman Ugur
-- 👀 I’m interested in computer science
-- 🌱 I’m fullstack java development
-- 💞️ I’m looking to collaborate on teams who make life easer and better
-- 📫 You may reach me from lokman.ugur@hotmail.com mail address
+Objective Dynamic and dedicated Java Developer with a strong passion for software
+development and a proven track record of delivering high-quality solutions. Armed
+with extensive expertise in Java programming, along with proficiency in a wide range
+of frameworks, databases, and development methodologies. Seeking to leverage my
+skills and experience to contribute effectively to a forward-thinking team, driving
+innovation and delivering exceptional software solutions.
 
 <!---
 lokmanugur/lokmanugur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
